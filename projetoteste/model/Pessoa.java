@@ -33,10 +33,10 @@ public class Pessoa implements Serializable {
 	private String cpf;
 
 	@Column
-	private String nome;
+	private String nome1;
 
 	@Column
-	private String rg;
+	private String rg1;
 
 	@Column
 	private Long statusPessoa;
